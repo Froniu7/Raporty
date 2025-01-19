@@ -1,0 +1,23 @@
+Smtp_serwer:
+wpisz poprawne 
+Port:
+465
+Haslo:
+wpisz poprawne 
+Nadawca:
+mfrontczak@setivo.pl
+Odbiorca:
+mfrontczak@setivo.pl
+Temat:
+Plik z raportem 2025-01-19
+Tresc:
+Czesc,
+w zalaczniku masz exel z raportem.   
+Pozdrawiam
+Marcin Frontczak
+
+
+
+
+
+
