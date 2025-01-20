@@ -1,13 +1,13 @@
 1
-lutowanie , testy 
+
 
 
 2
-testowanie
+
 
 
 3
-wk³adanie w obudowê
+
 
 
 4
@@ -59,6 +59,3 @@ wk³adanie w obudowê
 
 
 16
-
-
-
